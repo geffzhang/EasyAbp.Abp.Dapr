@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapr.Actors.AspNetCore" Version="$(DaprVersion)" />
+		<PackageReference Include="Volo.Abp.AspNetCore" Version="$(AbpVersion)" />
+	</ItemGroup>
+
+</Project>
