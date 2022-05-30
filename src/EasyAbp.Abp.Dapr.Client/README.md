@@ -1,6 +1,6 @@
-[Actors](../README.md) | Dapr.Client 文档
+[Actors](../../README.md) | Dapr.Client 文档
 
-# LINGYUN.Abp.Dapr.Client
+# EasyAbp.Abp.Dapr.Client
 
 实现了Dapr文档中的服务间调用,项目设计与Volo.Abp.Http.Client一致,通过配置文件即可无缝替代Volo.Abp.Http.Client  
 
@@ -93,7 +93,7 @@ dapr run --app-id myapp --app-port 5000 -H 50000 -G 40001 -- dotnet run
 
 ### 3、客户端
 
-引用 LINGYUN.Abp.Dapr.Client
+引用 EasyAbp.Abp.Dapr.Client
 
 * 配置文件 **appsettings.json**
 

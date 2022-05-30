@@ -1,4 +1,4 @@
-[Client](./LINGYUN.Abp.Dapr.Client/README.md) | Dapr.Actors 文档
+[Client](.src/EasyAbp.Abp.Dapr.Client/README.md) | Dapr.Actors 文档
 
 # Dapr.Actors 集成
 
@@ -26,7 +26,7 @@ public class SystemActorInterfaceModule : AbpModule
 
 ### 2、服务端
 
-引用 LINGYUN.Abp.Dapr.Actors.AspNetCore
+引用 EasyAbp.Abp.Dapr.Actors.AspNetCore
 
 * 实现接口
 
@@ -68,7 +68,7 @@ dapr run --app-id myapp --app-port 5000 -H 50000 -G 40001 -- dotnet run
 
 ### 3、客户端
 
-引用 LINGYUN.Abp.Dapr.Actors
+引用 EasyAbp.Abp.Dapr.Actors
 
 * 配置文件 **appsettings.json**
 

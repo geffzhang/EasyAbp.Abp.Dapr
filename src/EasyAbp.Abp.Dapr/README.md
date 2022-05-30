@@ -1,4 +1,4 @@
-# LINGYUN.Abp.Dapr
+# EasyAbp.Abp.Dapr
 
 Dapr 集成基础模块, 实现dapr文档中的命名单例DaprClient
 

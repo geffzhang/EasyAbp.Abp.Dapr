@@ -1,4 +1,4 @@
-# LINGYUN.Abp.Dapr.Actors
+# EasyAbp.Abp.Dapr.Actors
 
 Dapr.IActor客户端代理  
 
