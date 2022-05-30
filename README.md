@@ -1,4 +1,4 @@
-[Client](.src/EasyAbp.Abp.Dapr.Client/README.md) | Dapr.Actors 文档
+[Client](src/EasyAbp.Abp.Dapr.Client/README.md) | Dapr.Actors 文档
 
 # Dapr.Actors 集成
 
